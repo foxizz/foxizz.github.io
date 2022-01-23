@@ -1,2 +1,2 @@
 # foxizz.github.io
-web site
+foxizz games
